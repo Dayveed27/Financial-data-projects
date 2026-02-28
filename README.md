@@ -9,3 +9,9 @@ This is Day 1 of my Python learning journey as a Statistics student.
 - Create a mini profile program demonstrating these skills.
 
 ## Program Output
+
+## Skills Practiced
+- Python variables
+- Strings, integers, floats
+- Type conversion (`int()`, `float()`, `str()`)
+- String formatting with f-strings
